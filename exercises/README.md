@@ -5,9 +5,9 @@ After each task, check the box by turning the `[ ]` into `[X]`.
 
 ## Tasks
 
-- [ ] Restore the `{renv}` environment.
-- [ ] Fix the name of the dataset file.
-- [ ] User `{here}` instead of the current path to the dataset.
+- [x] Restore the `{renv}` environment.
+- [x] Fix the name of the dataset file.
+- [x] User `{here}` instead of the current path to the dataset.
 - [ ] Fix bug.
 - [ ] Add comments to the script, using hierarchies.
 - [ ] Change the name of the dataframe
